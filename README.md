@@ -21,7 +21,7 @@ I've spent 15+ years building backend systems and cloud architectures, mostly in
 
 I've spoken at many conferences, and I create courses, videos and a podcast for Spanish-speaking developers across LatAm and Spain.
 
-Lately I build LLM-powered backends and agentic workflows with Claude and Amazon Bedrock, and I’m an Anthropic-certified Claude developer.
+I build LLM-powered backends with the Claude and OpenAI APIs and Amazon Bedrock — tool use, structured outputs, RAG and agentic workflows — and I’m an Anthropic-certified Claude developer.
 
 - 🔭 Currently: cloud architecture and backend work for US clients, plus my own products
 - 🎙️ Teaching: Python, Docker and backend engineering on YouTube, Udemy and my podcast
@@ -56,8 +56,9 @@ Lately I build LLM-powered backends and agentic workflows with Claude and Amazon
 **AI & LLM engineering**
 
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 ## Featured projects
