@@ -21,6 +21,8 @@ I've spent 15+ years building backend systems and cloud architectures, mostly in
 
 I've spoken at many conferences, and I create courses, videos and a podcast for Spanish-speaking developers across LatAm and Spain.
 
+Lately I build LLM-powered backends and agentic workflows with Claude and Amazon Bedrock, and I’m an Anthropic-certified Claude developer.
+
 - 🔭 Currently: cloud architecture and backend work for US clients, plus my own products
 - 🎙️ Teaching: Python, Docker and backend engineering on YouTube, Udemy and my podcast
 - 🌱 Exploring: LLM-powered backends with Amazon Bedrock and agentic workflows
@@ -33,9 +35,12 @@ I've spoken at many conferences, and I create courses, videos and a podcast for 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
 
 **Cloud & infrastructure**
 
@@ -44,10 +49,16 @@ I've spoken at many conferences, and I create courses, videos and a podcast for 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 ![Step Functions](https://img.shields.io/badge/Step_Functions-E7157B?style=flat-square&logo=awsstepfunctions&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI & LLM engineering**
+
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 ## Featured projects
 
@@ -59,6 +70,11 @@ I've spoken at many conferences, and I create courses, videos and a podcast for 
 | [**macsetup**](https://github.com/neosergio/macsetup) | Declarative macOS provisioning: packages and dotfiles in YAML, with `plan` / `apply` preview | ![PyPI](https://img.shields.io/pypi/v/macsetup?style=flat-square) |
 
 I've also contributed to open source projects I use, including GNOME and OpenOffice.
+
+## Certifications
+
+- 🏅 **Claude Certified Developer – Foundations** (Anthropic)
+- 📚 Preparing **Claude Certified Architect – Foundations**
 
 ## Talks & content
 
