@@ -55,7 +55,8 @@ I've spoken at many conferences, and I create courses, videos and a podcast for 
 |---|---|---|
 | [**Latam-Keyboard**](https://github.com/neosergio/Latam-Keyboard) | macOS keyboard layout for Latin American keyboards | ![Stars](https://img.shields.io/github/stars/neosergio/Latam-Keyboard?style=flat-square) |
 | [**random-address**](https://github.com/neosergio/random-address) | Python library + CLI providing real, geocodable random addresses (3,850 across 29 US states) | ![PyPI](https://img.shields.io/pypi/v/random-address?style=flat-square) |
-| [**compactref**](https://github.com/neosergio/compactref) | Compact, human-facing references from ULIDs, UUIDs and other stable identifiers | |
+| [**compactref**](https://github.com/neosergio/compactref) | Short, human-friendly reference codes from ULIDs, UUIDs and other stable identifiers | ![PyPI](https://img.shields.io/pypi/v/compactref?style=flat-square) |
+| [**macsetup**](https://github.com/neosergio/macsetup) | Declarative macOS provisioning: packages and dotfiles in YAML, with `plan` / `apply` preview | ![PyPI](https://img.shields.io/pypi/v/macsetup?style=flat-square) |
 
 I've also contributed to open source projects I use, including GNOME and OpenOffice.
 
@@ -74,6 +75,9 @@ Open to backend / cloud architecture consulting and speaking invitations.
 📬 [infante.io](https://infante.io) · [LinkedIn](https://www.linkedin.com/in/TU_USUARIO) · ☕ [Buy me a coffee](https://www.buymeacoffee.com/neosergio)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neosergio&show_icons=true&hide_border=true&theme=dark&title_color=2dd4bf&icon_color=2dd4bf" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neosergio&layout=compact&hide_border=true&theme=dark&title_color=2dd4bf" alt="Top languages" height="160">
+  <img src="https://img.shields.io/github/followers/neosergio?style=flat-square&color=2dd4bf&label=followers" alt="Followers">
+  <img src="https://img.shields.io/github/stars/neosergio/Latam-Keyboard?style=flat-square&color=2dd4bf&label=Latam-Keyboard%20stars" alt="Stars">
+  <img src="https://img.shields.io/pypi/dm/random-address?style=flat-square&color=2dd4bf&label=random-address" alt="random-address downloads">
+  <img src="https://img.shields.io/pypi/dm/compactref?style=flat-square&color=2dd4bf&label=compactref" alt="compactref downloads">
+  <img src="https://img.shields.io/pypi/dm/macsetup?style=flat-square&color=2dd4bf&label=macsetup" alt="macsetup downloads">
 </p>
