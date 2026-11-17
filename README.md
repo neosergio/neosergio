@@ -1,38 +1,79 @@
-### Hi there 👋, I'm Sergio
+<h1 align="center">Hi, I'm Sergio Infante 👋</h1>
 
-<a href="https://www.buymeacoffee.com/neosergio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p align="center">
+  <b>Senior Software Engineer & AWS Cloud Architect</b><br>
+  Python · FastAPI · Serverless · Clean Architecture · Speaker · Content creator
+</p>
 
-- 💬 Ask me about software development, python, backend development and technology
-- 📷 Fun fact: Like to practice the art of drawing with light
-- 😄 Pronouns: he/him/his
-- :telephone: Contact me on twitter @neosergio
+<p align="center">
+  <a href="https://neosergio.net"><img src="https://img.shields.io/badge/Web-neosergio.net-2dd4bf?style=flat-square&logo=astro&logoColor=white" alt="Website"></a>
+  <a href="https://infante.io"><img src="https://img.shields.io/badge/Consulting-infante.io-0f172a?style=flat-square" alt="Consulting"></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@TU_CANAL"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.udemy.com/user/TU_USUARIO"><img src="https://img.shields.io/badge/Udemy-Courses-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy"></a>
+</p>
 
-## I love using:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
-![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+---
 
+## About me
 
-I've built so many things, and I don't have "the one project" that I think is the most **me**. I made several iOS apps, I've built websites, web services. I've contributed a little to several open source software that I use. I love making things and making things better (*subjectively, of course*)
+I've spent 15+ years building backend systems and cloud architectures, mostly in Python. Today I focus on **serverless and event-driven systems on AWS** (Lambda, API Gateway, DynamoDB, Step Functions, Bedrock) with **FastAPI** and clean, testable architectures.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=neosergio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-p
-<!--
-**neosergio/neosergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've spoken at many conferences, and I create courses, videos and a podcast for Spanish-speaking developers across LatAm and Spain.
 
-Here are some ideas to get you started:
+- 🔭 Currently: cloud architecture and backend work for US clients, plus my own products
+- 🎙️ Teaching: Python, Docker and backend engineering on YouTube, Udemy and my podcast
+- 🌱 Exploring: LLM-powered backends with Amazon Bedrock and agentic workflows
+- 📷 Off-keyboard: photography — drawing with light
 
-- :calling: see: [stuff I made](https://www.github.com/monkeywithacupcake/stuffimade)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Languages & frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**Cloud & infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-E7157B?style=flat-square&logo=awsstepfunctions&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Featured projects
+
+| Project | What it is | |
+|---|---|---|
+| [**Latam-Keyboard**](https://github.com/neosergio/Latam-Keyboard) | macOS keyboard layout for Latin American keyboards | ![Stars](https://img.shields.io/github/stars/neosergio/Latam-Keyboard?style=flat-square) |
+| [**random-address**](https://github.com/neosergio/random-address) | Python library + CLI providing real, geocodable random addresses (3,850 across 29 US states) | ![PyPI](https://img.shields.io/pypi/v/random-address?style=flat-square) |
+| [**compactref**](https://github.com/neosergio/compactref) | Compact, human-facing references from ULIDs, UUIDs and other stable identifiers | |
+
+I've also contributed to open source projects I use, including GNOME and OpenOffice.
+
+## Talks & content
+
+- 🎤 Talks on Python and backend engineering
+- 📺 YouTube: tutorials on Python, Docker and backend development (Spanish)
+- 🎧 Podcast on software engineering and career for LatAm developers
+- 📚 Udemy courses: Docker and Python · Author of books on Django
+- ✍️ Blog and talks archive at [neosergio.net](https://neosergio.net)
+
+## Let's talk
+
+Open to backend / cloud architecture consulting and speaking invitations.
+
+📬 [infante.io](https://infante.io) · [LinkedIn](https://www.linkedin.com/in/TU_USUARIO) · ☕ [Buy me a coffee](https://www.buymeacoffee.com/neosergio)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neosergio&show_icons=true&hide_border=true&theme=dark&title_color=2dd4bf&icon_color=2dd4bf" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neosergio&layout=compact&hide_border=true&theme=dark&title_color=2dd4bf" alt="Top languages" height="160">
+</p>
